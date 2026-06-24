@@ -14,7 +14,7 @@ todo
 1/19人間ドッグ変
 Mお花のきゅうり
 年間日程を見れるようにする
-mulmoclaudespec
+mulmoclaudespeceditor
 
 水道振り込み
 LINEの広告解除
