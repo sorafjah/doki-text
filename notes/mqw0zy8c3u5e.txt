@@ -8,6 +8,5 @@ text-rest
 やっぱり接続が不安定で呼べません 😔
 
 根本的な問題：
-
 Google DriveのMCPサーバーが繋がったり切れたりを繰り返している
 MulmoClaude側の handlePermission ツールが見つからない（設定の不具合の可能性）
