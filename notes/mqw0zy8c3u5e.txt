@@ -15,4 +15,4 @@ MulmoClaude側の接続問題については、アプリを再起動すると改
 
 バックグラウンドで考え中なのか、もう終わってるのかわからないときがあります。
 
-[Error] Server error 401: {"error":"unauthorized"}
+これが出続けて[Error] Server error 401: {"error":"unauthorized"}
