@@ -17,3 +17,4 @@ MulmoClaude側の接続問題については、アプリを再起動すると改
 
 dockerを入れたらこれが出続けてだいぶん経ちました。
 [Error] Server error 401: {"error":"unauthorized"}
+１時間ぐらい
