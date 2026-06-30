@@ -3,7 +3,8 @@ joby
 RXRX月1〜２
 SDGR月１
 KTOS防衛
-PRCT　AI搭載外科ロボット（泌尿器科）
+PRCT　AI搭載外科ロボット（泌尿器科）TEM
+
 
 売ろうかな
 SES
