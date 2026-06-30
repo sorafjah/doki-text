@@ -2,3 +2,6 @@
 joby
 RXRX
 SDGR
+
+売ろうかな
+SES
