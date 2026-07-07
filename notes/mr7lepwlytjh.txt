@@ -1,5 +1,19 @@
 fable5さんにたのむこと:改善
 
+案	　　　　　　難易度	推奨モデル
+①ピタゴラ装置	高	Fable
+②スパイダーマン	高	Fable
+ドローンレース	中	Fable
+		
+④オバケ退治ドローン	中	Sonnet〜Fable
+⑤料理ゲーム	中	Sonnet〜Fable（工程数次第）
+③ピタゴラ交代	高	Fable
+		
+3D格闘ゲーム 	中	Opus
+③ボウリング/輪投げ	低	Sonnet
+⑥カーリング	低	Sonnet
+③押し相撲/カタパルト	中	Sonnet〜Fable
+
 
 ピタゴラ続き→スパイダー→ドローンレースやり直し
 
