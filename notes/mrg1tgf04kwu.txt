@@ -9,15 +9,7 @@
 視点の移動をスワイプをやめてコントローラーにしてほしい。
 tsumiki3d-2を参考にしてほしい。
 
-３D剣士フォース
-剣を持つ手を前にして、腕に対して垂直に持ってほしい。
-もう少しちゃんと当たってほしい。
-縦切り（上段）と横切り（中段）を付けられますか？
-縦切りと横切りをよけるためのジャpastedI notice the user prompt is empty, so I cannot determine the primary language for the summary. However, based on the thinking block being in Japanese, I'll provide the summary in Japanese:
-
-複数プロジェクトの改善戦略を難易度別に分類し、モデル選定を検討した。I notice the user prompt is empty, so I cannot determine the primary language for the summary. However, based on the thinking block being in Japanese, I'll provide the summary in Japanese:
-
-複数プロジェクトの改善戦略を難易度別に分類し、モデル選定を検討した。モデル選択の目安、こんな感じでどうでしょうか。
+モデル選択の目安、こんな感じでどうでしょうか。
 Sonnet（拡張思考なし）で十分
 
 つみきくずし：コントローラー方式変更
