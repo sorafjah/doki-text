@@ -1,6 +1,49 @@
 鳥味🚧２
 
+最近作ったものを改善したいけど、それぞれモデルはソネットでいいですか？fable？中高？拡張思考は？
+つみきくずし
+コントローラーで発射し始めるところの左右を選べるようにしたい。
+積むときのコントロールを指じゃなくて回転、落とすボタンと移動はコントローラーでやりたい。面白さとの兼ね合いですが。
 
+ピタゴラ
+視点の移動をスワイプをやめてコントローラーにしてほしい。
+tsumiki3d-2を参考にしてほしい。
+
+３D剣士フォース
+剣を持つ手を前にして、腕に対して垂直に持ってほしい。
+もう少しちゃんと当たってほしい。
+縦切り（上段）と横切り（中段）を付けられますか？
+縦切りと横切りをよけるためのジャpastedI notice the user prompt is empty, so I cannot determine the primary language for the summary. However, based on the thinking block being in Japanese, I'll provide the summary in Japanese:
+
+複数プロジェクトの改善戦略を難易度別に分類し、モデル選定を検討した。I notice the user prompt is empty, so I cannot determine the primary language for the summary. However, based on the thinking block being in Japanese, I'll provide the summary in Japanese:
+
+複数プロジェクトの改善戦略を難易度別に分類し、モデル選定を検討した。モデル選択の目安、こんな感じでどうでしょうか。
+Sonnet（拡張思考なし）で十分
+
+つみきくずし：コントローラー方式変更
+ピタゴラ×2：tsumiki3d-2参考の視点/移動統一（既存パターン流用）
+アイスライダー：×２つ、間の演出調整
+バーコード：表示崩れ修正
+ドローンレース：左右反転・感度調整
+ぴよスノボ：見た目・演出の複数小変更
+サブマリン：判定・影表示
+唐揚げ狼男：攻撃条件ロジック
+
+Sonnet＋拡張思考ON（原因調査系）
+
+ピンボール：弾の引っかかり・ズーム固定バグ
+玉ころがし３D：逆挙動の原因特定してからステージ選択制を実装
+３D格ゲー：床めり込み・横移動の物理バグ調査
+
+Opus推奨（新システム設計・複数要素が絡む）
+
+３D剣士フォース：縦切り/横切り＋回避システムの新規設計 → ここはFableでも良さそうです、複雑な当たり判定＋アニメーション連携なので
+スパイダー：ゴール構造の根本再設計
+ゆんぼ：アーム操作の必然性を作る新ギミック
+モトクロス：ウイリー/バックフリップの挙動反転＋コース修正
+とりさん：敵AIの追跡・諦めロジック
+グライダー３D：飛行物理＋スコアエリア再設計
+おばけ退治ドローン／おばけ退治：部屋レイアウト刷新
 
 ぴよゲームズ
 https://sites.google.com/view/piyo-games
