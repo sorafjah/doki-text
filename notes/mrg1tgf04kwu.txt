@@ -107,9 +107,6 @@ https://sites.google.com/view/piyo-games
 おばけ退治
 オバケを室内に出してほしい。
 
-◇気になるが後回し
-リズム
-
 まだ作ってない：C
 カタパルト的あて：難易度中sonnet
 カーリング：低sonnet
