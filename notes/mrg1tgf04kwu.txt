@@ -47,7 +47,6 @@ Sonnet（拡張思考なし）で十分
 サブマリン：判定・影表示
 唐揚げ狼男：攻撃条件ロジック
 
-
 ぴよゲームズ
 https://sites.google.com/view/piyo-games
 
