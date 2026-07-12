@@ -76,7 +76,6 @@ https://sites.google.com/view/piyo-games
 
 アプリを修正したい。モデルと中高、拡張思考をどうするか教えてください。
 
-
 まだ作ってない：C
 カタパルト的あて：難易度中sonnet
 カーリング：低sonnet
