@@ -60,9 +60,6 @@ https://sites.google.com/view/piyo-games
 
 ピタゴラ
 
-３D剣士フォース
-先っちょの丸っぽいところなくしてほしい
-
 ピタゴラ
 視点の動かし方と、アイテムの動かし方をtsumiki3d-2を参考にしてほしい。
 
