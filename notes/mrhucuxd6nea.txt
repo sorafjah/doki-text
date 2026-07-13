@@ -1,4 +1,3 @@
-魔法学校
 <!DOCTYPE html>
 <html lang="ja">
 <head>
